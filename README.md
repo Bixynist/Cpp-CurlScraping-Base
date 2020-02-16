@@ -1,3 +1,1 @@
-# Cpp-CurlScraping-Base
-Aditional Dependencies:
-  LibCurl
+Aditional Dependencies: LibCurl
